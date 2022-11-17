@@ -6,7 +6,7 @@
   <link href="https://95nf.github.io/atom.xml" rel="self"/>
   
   <link href="https://95nf.github.io/"/>
-  <updated>2022-09-11T07:29:52.565Z</updated>
+  <updated>2022-10-25T14:36:37.569Z</updated>
   <id>https://95nf.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>博客发布测试（1）</title>
+    <title>blog发布测试（1）</title>
     <link href="https://95nf.github.io/posts/fb9827cc.html"/>
     <id>https://95nf.github.io/posts/fb9827cc.html</id>
     <published>2022-08-31T16:00:00.000Z</published>
-    <updated>2022-09-11T07:29:52.565Z</updated>
+    <updated>2022-10-25T14:36:37.569Z</updated>
     
-    <content type="html"><![CDATA[<p>测试时间为下午5点</p>]]></content>
+    <content type="html"><![CDATA[<p>2022-09-01-17：00</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;测试时间为下午5点&lt;/p&gt;
+    <summary type="html">&lt;p&gt;2022-09-01-17：00&lt;/p&gt;
 </summary>
       
     
