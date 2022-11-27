@@ -6,7 +6,7 @@
   <link href="https://95nf.github.io/atom.xml" rel="self"/>
   
   <link href="https://95nf.github.io/"/>
-  <updated>2022-11-27T07:27:14.972Z</updated>
+  <updated>2022-11-27T07:33:51.761Z</updated>
   <id>https://95nf.github.io/</id>
   
   <author>
@@ -21,35 +21,14 @@
     <link href="https://95nf.github.io/posts/3c904fe4.html"/>
     <id>https://95nf.github.io/posts/3c904fe4.html</id>
     <published>2022-11-27T06:31:52.000Z</published>
-    <updated>2022-11-27T07:27:14.972Z</updated>
+    <updated>2022-11-27T07:33:51.761Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h2><h3 id="node-js"><a href="#node-js" class="headerlink" title="node.js"></a>node.js</h3><p>注：为javascirpt搭建环境</p><ol><li>选择LTS长期支持版本，选择对应系统</li><li>安装选项全部默认</li></ol><h3 id="git"><a href="#git" class="headerlink" title="git"></a>git</h3><p>官网<a href="https://git-scm.com/">https://git-scm.com/</a></p><p>选择对应系统</p><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211271504187.png" alt="Pasted image 20221116234340"></p><p>一般选择此版本</p><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211271505070.png" alt="Pasted image 20221117000921"></p><h3 id="检查版本"><a href="#检查版本" class="headerlink" title="检查版本"></a>检查版本</h3><p>win+r打开电脑终端</p><p>输入</p><p><code>git -v</code></p><p><code>node -v</code></p><p><code>npm -v</code></p><p>显示如图则为安装成功![Pasted image 20221119114716](D:\software\obsidian\上线博客\附件存放\Pasted image 20221119114716.png)</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h2><h3 id="node-js"><a href="#node-js" class="headerlink" title="node.js"></a>node.js</h3><p>注：为javascirpt搭建环境</p><ol><li>选择LTS长期支持版本，选择对应系统</li><li>安装选项全部默认</li></ol><h3 id="git"><a href="#git" class="headerlink" title="git"></a>git</h3><p>官网<a href="https://git-scm.com/">https://git-scm.com/</a></p><p>选择对应系统</p><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211271504187.png" alt="我选择的是Windows"></p><p>一般选择此版本</p><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211271505070.png"></p><h3 id="检查版本"><a href="#检查版本" class="headerlink" title="检查版本"></a>检查版本</h3><p>win+r打开电脑终端</p><p>输入</p><p><code>git -v</code></p><p><code>node -v</code></p><p><code>npm -v</code></p><p>显示如图则为安装成功![Pasted image 20221119114716](D:\software\obsidian\上线博客\附件存放\Pasted image 20221119114716.png)</p>]]></content>
     
     
       
       
     <summary type="html">&lt;h2 id=&quot;环境搭建&quot;&gt;&lt;a href=&quot;#环境搭建&quot; class=&quot;headerlink&quot; title=&quot;环境搭建&quot;&gt;&lt;/a&gt;环境搭建&lt;/h2&gt;&lt;h3 id=&quot;node-js&quot;&gt;&lt;a href=&quot;#node-js&quot; class=&quot;headerlink&quot; title=&quot;nod</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>blog发布测试（1）</title>
-    <link href="https://95nf.github.io/posts/fb9827cc.html"/>
-    <id>https://95nf.github.io/posts/fb9827cc.html</id>
-    <published>2022-08-31T16:00:00.000Z</published>
-    <updated>2022-10-25T14:36:37.569Z</updated>
-    
-    <content type="html"><![CDATA[<p>2022-09-01-17：00</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;2022-09-01-17：00&lt;/p&gt;
-</summary>
       
     
     
