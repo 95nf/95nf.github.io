@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>hexo框架下的blog搭建</title>
+      <link href="/posts/3c904fe4.html"/>
+      <url>/posts/3c904fe4.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h3><h4 id="node-js"><a href="#node-js" class="headerlink" title="node.js"></a>node.js</h4><p>注：为javascirpt搭建环境</p><p>官网<a href="https://git-scm.com/">https://git-scm.com/</a></p><p>选择对应系统</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>blog发布测试（1）</title>
       <link href="/posts/fb9827cc.html"/>
       <url>/posts/fb9827cc.html</url>
