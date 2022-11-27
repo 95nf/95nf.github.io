@@ -6,7 +6,7 @@
   <link href="https://95nf.github.io/atom.xml" rel="self"/>
   
   <link href="https://95nf.github.io/"/>
-  <updated>2022-11-27T13:17:56.810Z</updated>
+  <updated>2022-11-27T13:26:21.189Z</updated>
   <id>https://95nf.github.io/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="https://95nf.github.io/posts/3c773c2e.html"/>
     <id>https://95nf.github.io/posts/3c773c2e.html</id>
     <published>2022-11-27T11:56:14.000Z</published>
-    <updated>2022-11-27T13:17:56.810Z</updated>
+    <updated>2022-11-27T13:26:21.189Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="阿里云对象存储oss服务"><a href="#阿里云对象存储oss服务" class="headerlink" title="阿里云对象存储oss服务"></a>阿里云对象存储oss服务</h3><h4 id="购买对象存储oss服务"><a href="#购买对象存储oss服务" class="headerlink" title="购买对象存储oss服务"></a>购买对象存储oss服务</h4><p>阿里云官网<a href="https://www.aliyun.com/">https://www.aliyun.com/</a></p><p>搜索对象存储oss<img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272019442.png" alt="image-20221127201905037"></p><p>其他默认，选择购买时长</p><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272022429.png" alt="image-20221127202204288"></p><h4 id="创建bucket"><a href="#创建bucket" class="headerlink" title="创建bucket"></a>创建bucket</h4><ol><li>打开管理控制台，创建一个bucket</li></ol><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272025195.png" alt="image-20221127202516095"></p><ol start="2"><li>名称随意，地域选择离自己近</li></ol><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272029075.png" alt="image-20221127202927008"></p><ol start="3"><li>选择公有读</li></ol><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272026609.png" alt="image-20221127202655521"></p><ol start="4"><li>确定创建</li></ol><h4 id="设定key"><a href="#设定key" class="headerlink" title="设定key"></a>设定key</h4><ol><li>在个人头像中找到accesskey管理</li></ol><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272114259.png" alt="image-20221127211446131"></p><ol start="2"><li>此时会弹出安全提示，点击继续使用accesskey</li><li>将所得到的key id和key secret记录下来</li></ol><h3 id="配置picgo"><a href="#配置picgo" class="headerlink" title="配置picgo"></a>配置picgo</h3><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272045569.png" alt="image-20221127204507508"></p><ol><li>将得到的key id 和key secret填入</li><li>设定bucket即为你的bucket名称</li><li>存储区域</li></ol><p>存储区域即外网访问中的地域节点的前一部分</p><p>如我的是oss-cn-beijing<img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272102581.png" alt="image-20221127210257303"></p><ol start="4"><li>存储路径</li></ol><p>在文件管理中新建目录</p><p>存储路径中填入所创建的目录即可<img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272109955.png" alt="image-20221127210950697"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="阿里云对象存储oss服务"><a href="#阿里云对象存储oss服务" class="headerlink" title="阿里云对象存储oss服务"></a>阿里云对象存储oss服务</h1><h2 id="购买对象存储oss服务"><a href="#购买对象存储oss服务" class="headerlink" title="购买对象存储oss服务"></a>购买对象存储oss服务</h2><p>阿里云官网<a href="https://www.aliyun.com/">https://www.aliyun.com/</a></p><p>搜索对象存储oss<img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272019442.png" alt="直接搜索oss也可以"></p><p>其他默认，选择购买时长</p><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272022429.png"></p><h2 id="创建bucket"><a href="#创建bucket" class="headerlink" title="创建bucket"></a>创建bucket</h2><ol><li>打开管理控制台，创建一个bucket</li></ol><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272025195.png" alt="我之前就创建了，和初始不一样"></p><ol start="2"><li>名称随意，地域选择离自己近</li></ol><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272029075.png"></p><ol start="3"><li>选择公有读</li></ol><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272026609.png"></p><ol start="4"><li>确定创建</li></ol><h2 id="设定key"><a href="#设定key" class="headerlink" title="设定key"></a>设定key</h2><ol><li>在个人头像中找到accesskey管理</li></ol><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272114259.png"></p><ol start="2"><li>此时会弹出安全提示，点击继续使用accesskey</li><li>将所得到的key id和key secret记录下来</li></ol><h1 id="配置picgo"><a href="#配置picgo" class="headerlink" title="配置picgo"></a>配置picgo</h1><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272045569.png"></p><ol><li>将得到的key id 和key secret填入</li><li>设定bucket即为你的bucket名称</li><li>存储区域</li></ol><p>存储区域即外网访问中的地域节点的前一部分</p><p>如我的是oss-cn-beijing<img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272102581.png"></p><ol start="4"><li>存储路径</li></ol><p>在文件管理中新建目录</p><p>存储路径中填入所创建的目录即可<img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272109955.png"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;阿里云对象存储oss服务&quot;&gt;&lt;a href=&quot;#阿里云对象存储oss服务&quot; class=&quot;headerlink&quot; title=&quot;阿里云对象存储oss服务&quot;&gt;&lt;/a&gt;阿里云对象存储oss服务&lt;/h3&gt;&lt;h4 id=&quot;购买对象存储oss服务&quot;&gt;&lt;a href=&quot;#购买</summary>
+    <summary type="html">&lt;h1 id=&quot;阿里云对象存储oss服务&quot;&gt;&lt;a href=&quot;#阿里云对象存储oss服务&quot; class=&quot;headerlink&quot; title=&quot;阿里云对象存储oss服务&quot;&gt;&lt;/a&gt;阿里云对象存储oss服务&lt;/h1&gt;&lt;h2 id=&quot;购买对象存储oss服务&quot;&gt;&lt;a href=&quot;#购买</summary>
       
     
     
