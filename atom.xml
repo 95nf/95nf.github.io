@@ -37,11 +37,11 @@
   </entry>
   
   <entry>
-    <title>hexo框架下的blog搭建</title>
+    <title>hexo框架+github pages搭建个人blog</title>
     <link href="https://95nf.github.io/posts/3c904fe4.html"/>
     <id>https://95nf.github.io/posts/3c904fe4.html</id>
     <published>2022-11-27T06:31:52.000Z</published>
-    <updated>2022-11-27T12:14:00.211Z</updated>
+    <updated>2022-11-28T02:18:55.500Z</updated>
     
     <content type="html"><![CDATA[<h2 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h2><h3 id="node-js"><a href="#node-js" class="headerlink" title="node.js"></a>node.js</h3><p>注：为javascirpt搭建环境</p><ol><li>选择LTS长期支持版本，选择对应系统</li><li>安装选项全部默认</li></ol><h3 id="git"><a href="#git" class="headerlink" title="git"></a>git</h3><p>官网<a href="https://git-scm.com/">https://git-scm.com/</a></p><p>选择对应系统</p><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211272013260.png" alt="我选择的是Windows"></p><p>一般选择此版本</p><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211271502309.png"></p><h3 id="检查版本"><a href="#检查版本" class="headerlink" title="检查版本"></a>检查版本</h3><p>win+r打开电脑终端</p><p>输入</p><p><code>git -v</code></p><p><code>node -v</code></p><p><code>npm -v</code></p><p>显示如图则为安装成功</p><p><img src="https://95dennf.oss-cn-beijing.aliyuncs.com/img-/202211271502307.png" alt="显示版本即为成功安装"></p>]]></content>
     
