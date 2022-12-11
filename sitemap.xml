@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://95nf.github.io/posts/a418e056.html</loc>
+    
+    <lastmod>2022-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://95nf.github.io/posts/94e29d6d.html</loc>
+    
+    <lastmod>2022-12-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://95nf.github.io/posts/3c904fe4.html</loc>
     
     <lastmod>2022-11-28</lastmod>
@@ -31,7 +49,7 @@
 
   <url>
     <loc>https://95nf.github.io/</loc>
-    <lastmod>2022-11-30</lastmod>
+    <lastmod>2022-12-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

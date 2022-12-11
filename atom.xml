@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>95NF</title>
+  <title>欢迎━(*｀∀´*)ノ亻!</title>
   
   
   <link href="https://95nf.github.io/atom.xml" rel="self"/>
   
   <link href="https://95nf.github.io/"/>
-  <updated>2022-11-27T13:30:19.130Z</updated>
+  <updated>2022-12-11T14:07:56.770Z</updated>
   <id>https://95nf.github.io/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>利用安卓手机搭建个人服务器</title>
+    <link href="https://95nf.github.io/posts/a418e056.html"/>
+    <id>https://95nf.github.io/posts/a418e056.html</id>
+    <published>2022-12-11T13:59:33.000Z</published>
+    <updated>2022-12-11T14:07:56.770Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="安装termux"><a href="#安装termux" class="headerlink" title="安装termux"></a>安装termux</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;安装termux&quot;&gt;&lt;a href=&quot;#安装termux&quot; class=&quot;headerlink&quot; title=&quot;安装termux&quot;&gt;&lt;/a&gt;安装termux&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>将chatGTP接入QQ &amp; wechat</title>
+    <link href="https://95nf.github.io/posts/94e29d6d.html"/>
+    <id>https://95nf.github.io/posts/94e29d6d.html</id>
+    <published>2022-12-11T13:55:47.000Z</published>
+    <updated>2022-12-11T14:05:57.911Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="搭建服务器"><a href="#搭建服务器" class="headerlink" title="搭建服务器"></a>搭建服务器</h1><h2 id="海外服务器"><a href="#海外服务器" class="headerlink" title="海外服务器"></a>海外服务器</h2><h2 id="个人服务器"><a href="#个人服务器" class="headerlink" title="个人服务器"></a>个人服务器</h2><h1 id="安装cqhttp"><a href="#安装cqhttp" class="headerlink" title="安装cqhttp"></a>安装cqhttp</h1><h1 id="安装none-bot"><a href="#安装none-bot" class="headerlink" title="安装none bot"></a>安装none bot</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;搭建服务器&quot;&gt;&lt;a href=&quot;#搭建服务器&quot; class=&quot;headerlink&quot; title=&quot;搭建服务器&quot;&gt;&lt;/a&gt;搭建服务器&lt;/h1&gt;&lt;h2 id=&quot;海外服务器&quot;&gt;&lt;a href=&quot;#海外服务器&quot; class=&quot;headerlink&quot; title=&quot;海外服</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>阿里oss+picgo搭建个人图床</title>
